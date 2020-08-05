@@ -1,0 +1,2 @@
+# easorm
+Database without pain.
